@@ -198,6 +198,8 @@ class ClientReimbursement(models.Model):
             "reconcile": False,
             "field_mapping": self._get_field_mapping(),
             "filter_analytic_ok": True,
+            "filter_product_ok": True,
+            "product_ids": [(6, 0, self.allowed_product_ids.ids)],
         }
         if self.analytic_account_id:
             data.update(
