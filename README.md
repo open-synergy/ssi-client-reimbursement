@@ -14,7 +14,11 @@ ssi-client-reimbursement
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[ssi_client_reimbursement](ssi_client_reimbursement/) | 14.0.1.0.0 |  | Client Reimbursement
 
 [//]: # (end addons)
 
