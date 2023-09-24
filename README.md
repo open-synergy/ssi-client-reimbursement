@@ -18,7 +18,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[ssi_client_reimbursement](ssi_client_reimbursement/) | 14.0.1.0.0 |  | Client Reimbursement
+[ssi_client_reimbursement](ssi_client_reimbursement/) | 14.0.1.0.1 |  | Client Reimbursement
 
 [//]: # (end addons)
 
